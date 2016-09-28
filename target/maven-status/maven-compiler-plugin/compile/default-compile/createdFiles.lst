@@ -1,0 +1,9 @@
+com/client/TestClient.class
+com/service/UserRestService.class
+com/client/JaxBSupportClient.class
+com/client/JsonGetClient.class
+com/pojo/Person.class
+com/client/XmlPostClient.class
+com/client/JsonPostClient.class
+com/service/SampleRestService.class
+com/pojo/Planet.class
